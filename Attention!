@@ -1,0 +1,4 @@
+In the ipynb notebook, the red errors are because The file which stored the compiled dataset was "Merged_Full" which was deleted after i closed the tab after finishing the model ; I tried to run it after 2 days and it showed the red marks.
+The code is fully functional.
+
+THANK YOU!
